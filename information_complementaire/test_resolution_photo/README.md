@@ -22,6 +22,8 @@ Tous les fichiers des photographies sont en 72 ppp.
 **800 pixels X 600 pixels, 72 ppp**
 ![photo en 800x600](BIAN_Slow_Motion_Car_Crash_800_600.jpg)
 **500 pixels x 375 pixels**
-![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG)
+Il est possible de mettre 2 photos l'une à côté de l'autre en inscrivant la syntaxe d'intégration sur la même ligne. Il faut par contre que les photos soient de dimentsions adéquates pour que les 2 puissent être placées côte-à-côte.
+
+![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG) ![photo en 500x375](BIAN_Slow_Motion_Car_Crash_500_375.JPG)
 
 > Photo par Karine L'Ecuyer, février 2023
