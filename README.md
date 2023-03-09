@@ -12,6 +12,7 @@ Ce répertoire contient les **consignes des travaux** du cours Documentation d'u
 - [ ] TP1b_exploration_Mycelium.md : Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 - [ ] TP1c_communication_orale.md : Communication efficace de ses idées et de ses choix : présentation orale d’une œuvre ou d'un dispositif multimédia et de l’expérience vécue (visite individuelle) 20%
 - [ ] conseil_travail_rigueur.md : Conseils pour un travail rigoureux
+- [ ] rétroaction générale sur le TP1A
 
 ### Le dossier *information_complementaire* présente des documents pour rappeler comment :
 - créer un dossier dans un répertoite
