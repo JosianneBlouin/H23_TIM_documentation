@@ -16,6 +16,6 @@ Il est également possible de demander une dimension autre en hauteur, en ajouta
 
 Si votre fichier provient d'un autre dossier, c'est le chemin vers ce fichier qu'il faut copier à titre de source de l'image
 
-Pour commander l'alignement, par exemple à droite, voici la syntaxe utilisée:
+Pour commander l'alignement, par exemple à droite, voici la syntaxe utilisée :
 ![Syntaxe alignement](capture_ecran_syntaxe_alignement.png)
 <img src="BIAN_Slow_Motion_Car_Crash_1200_900.jpg" alt="photo Slow Motion Car Crash" width="500" align="right">
