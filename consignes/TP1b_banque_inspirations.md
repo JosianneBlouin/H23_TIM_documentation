@@ -1,6 +1,6 @@
 # CONSIGNES TRAVAIL 1B
 # BANQUE D'INSPIRATIONS D'OEUVRES ET DE DISPOSITIFS MULTIMÉDIAS EN EXPOSITION (répertoire GitHub) 35% 
-## À remettre à la semaine 13, fin du cours / ==REMISE AU COURS 14 AU DÉBUT DU COURS==
+## À remettre à la semaine 13, fin du cours / REMISE AU COURS 14 AU DÉBUT DU COURS
 
 
 # LA BANQUE D'INSPIRATIONS
