@@ -10,3 +10,4 @@
 Le texte entre crochets est un texte qui décrit ce que vous insérez. Ce qui se trouve entre parenthèses est le chemin que vous aviez copié et que vous collez (Ctrl+V)
 
 Vous avez maintenant intégré votre fichier de la bonne façon !
+![image sélection nom du fichier](medias/GitHub_selection_fichier_image.png)
